@@ -1,5 +1,9 @@
 # Árvores AVL
 
+Nome: Sérgio Wilson Rosa Brito
+<br>
+RA: 12220381
+
 ## 1. Comportamento Padrão para Inserção e Balanceamento da Árvore AVL
 
 ### Inserção:
