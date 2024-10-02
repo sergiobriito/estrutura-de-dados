@@ -30,7 +30,7 @@ int main() {
         arr_cem[i] = randomNum;
     };
     int* res = buscarMaiorElemento(arr_cem, size);
-    cout << "Tempo gasto: " << res[0] << endl;
+    cout << "Tempo gasto (microsegundos): " << res[0] << endl;
     cout << "Maior elemento: " << res[1] << endl;
     
     cout << "-----------------" << endl;
@@ -43,7 +43,7 @@ int main() {
         arr_mil[i] = randomNum;
     };
     res = buscarMaiorElemento(arr_mil, size);
-    cout << "Tempo gasto: " << res[0] << endl;
+    cout << "Tempo gasto (microsegundos): " << res[0] << endl;
     cout << "Maior elemento: " << res[1] << endl;
     
     cout << "-----------------" << endl;
@@ -56,7 +56,7 @@ int main() {
         arr_mill[i] = randomNum;
     };
     res = buscarMaiorElemento(arr_mill, size);
-    cout << "Tempo gasto: " << res[0] << endl;
+    cout << "Tempo gasto (microsegundos): " << res[0] << endl;
     cout << "Maior elemento: " << res[1] << endl;
     
  
