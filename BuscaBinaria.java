@@ -3,8 +3,8 @@ class BuscaBinaria{
     static int contador = 0;
 
     public static void main(String[] args) {
-        int n = 100000000;
-        int target = 100000001;
+        int n = 100;
+        int target = 101;
 
         int[] arr = new int[n];
 
