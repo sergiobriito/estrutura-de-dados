@@ -1,5 +1,13 @@
 # Controle de Contatos
 
+GRUPO 1
+
+* Fabrício Martins
+* Gustavo Fonseca de Oliveira
+* Gustavo Junio
+* Henrique Willer
+* Sérgio Brito
+
 ## Descrição
 
 Este projeto consiste em um sistema de **gerenciamento de contatos** desenvolvido em Java, com uma interface gráfica simples utilizando **Swing**. Ele permite ao usuário adicionar, remover, buscar, e listar contatos por nome ou telefone. O projeto utiliza estruturas de dados eficientes e persistência de informações em um arquivo txt.
